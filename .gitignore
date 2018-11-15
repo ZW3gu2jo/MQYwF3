@@ -1,3 +1,8 @@
+#pycharm 工程文件
+./idea
+#自己的配置文件
+myconfig.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
