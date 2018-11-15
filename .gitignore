@@ -2,6 +2,8 @@
 .idea/
 #自己的配置文件
 myconfig.py
+#阿布云产生的压缩文件
+*.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
