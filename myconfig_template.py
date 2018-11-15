@@ -7,3 +7,11 @@ proxyPort = "9020"
 # 代理隧道验证信息
 proxyUser = ""
 proxyPass = ""
+
+#51ym
+ymname = ""
+ympass = ""
+
+#lianzhong
+lzname = ""
+lzpass = ""
